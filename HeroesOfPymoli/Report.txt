@@ -1,0 +1,25 @@
+Game Analysis:
+
+The game 'Heroes of Pymoli' had 576 unique players and 179 unique optional items to purchase to enhance the playing experience.
+
+By Age:
+Players between the Age of 20-24 made the most no of purchases and players above 40 made the least no of purchases.
+
+By Gender:
+
+The no of Male players(484) were comparitively bigger than the Female(81) or the Other disclosed group(11). They also made
+the most no of purchases(652) and were the main contributers to the total revenue of $2379.77.
+
+Top Spenders:
+
+Lisosia93($18.96()
+Idastidru52($15.45)
+Chamjask73($13.83)
+Iral74($13.62)
+Iskadarya95($13.10) were the top spenders in the descending order.
+
+Most Popular Items/Most Profitable Item:
+
+'Final Critic','Oathbreaker and Last Hope of the Breaking Storm' were bought the most and they were the most proitable too.
+
+
